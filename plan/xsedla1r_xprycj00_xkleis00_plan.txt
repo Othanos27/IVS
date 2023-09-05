@@ -1,0 +1,69 @@
+IVS - Týmový projekt - Kalkulačka
+
+Termíny:
+------------------------------------
+17.03.      Plán, Repozitář, Discord
+27.03.      Testy
+01.04.      Programování kalkulačky
+11.04.      Uživatelské rohraní
+17.04.      Instalátor, manuál
+19.04.      Dokumentace, makefile
+23.04.      Ladění detailů a opravování problémů
+25.04.      Zhodnocení
+29.04.      Instalace 
+
+(???14.05.???)      Obhajoba
+------------------------------------
+
+
+
+Přidělení úkolů:
+------------------------------------
+Repozitář --- xprycj00
+          Vytvoření, kontrola, řešení problémů s repozitářem.
+          
+Testy ---  xprycj00
+          Testy budou vytvořené před samotným programem, aby splňovali funkčnost kalkulačky.
+
+Uživatelské rozhraní --- xsedla1r
+          Vytvoření uživatelského rozhraní (funkčnost, návrh a implementace grafického zpracování).
+          Naprogramování tlačítek.
+
+Programování kalkulačky --- xkleis00, xsedla1r (kontrola: xprycj00)
+          Základní funkce kalkulačky (+,-,/,*). --- xkleis00
+          Složitější funkce kalkuačky (faktoriál, od/mocniny). --- xkleis00
+          Priorita aritmetických operací. --- xsedla1r
+                             
+Makefile --- xkleis00
+          Vytvoření souboru makefile.
+          
+Instalátor --- xprycj00 
+          Vytvoření instalátoru, manuálu.
+                    
+Kontrola a vzájemná výpomoc --- Všichni
+          Kdyby se stalo, že se některému z členu nedaří správně danou funkcionalitu naimplementovat, 
+          tak může požádat jiného člena o výpomoc.
+Dokumentace --- Všichni
+Mockup --- Všichni
+------------------------------------
+
+
+
+Komunikační kanál:
+------------------------------------
+Discord
+Na discordu máme vyhrazené tři kanály na projekt IVS.
+Jeden specializovaný na informace a termíny, druhý na věci k vývoji a poslední je zvukový kanál, kde se sházíme. 
+Pravidla: 1) Všichni maximálně sledují všechny kanály
+          2) Věci jako "tag" používáme jen v důležitých/nezbytně nutných situacích
+          3) Žádné vulgarismy
+------------------------------------
+
+
+
+Zvolený systém pro správu verzí a hosting:
+------------------------------------
+Github
+Do repozitáře bude možno náhlédnout vyučujícím přes email ivs.kontrola@gmail.com
+V případě potíží kontaktutje našeho vedoucího na e-mail: sedlak.otas@gmail.com
+------------------------------------

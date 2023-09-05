@@ -1,0 +1,5 @@
+Hodnocení:
+
+xprycj00 - 100% (repozitar,testy,instalator)
+xkleis00 - 100% (dokumentace,knihovna,doxyfile)
+xsedla1r - 100% (gui,debugging,makefile)

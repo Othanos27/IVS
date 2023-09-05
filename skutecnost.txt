@@ -1,0 +1,16 @@
+Rozdíly mezi plánem a realitou:
+
+- discord a plán jsme si připravili a udělali včas
+- testy byly naprogramované do jejich termínu, nicméně se neobešly bez pozdějších úprav a ladění
+po termínu
+- v programování samotné kalkulačky nastaly první lehké problémy, počínaje dodáním knihovny
+2 dny po termínu či pozdější začátek programování grafického uživatelského rozhraní (gui)
+- instalátor byl hotový poměrně rychle, avšak po termínu, protože byl prodloužený termín odevzdání,
+a tak jsme si i my v týmu lehce prodloužili deadliny
+- dokumentace, podobně jako instalátor, byla celkem rychle hotová, ale znovu pár dní po jejím termínu
+- jak se blížil čas odevzdání, tak jsme už jen, jak je v plánu řečeno, ladili detaily a dodělávali věci
+jako zhodnocení, manuál a podobné věci, aby výsledný produkt odpovídal co nejvíce zadání
+
+Závěr: Všichni v týmu jsme se shodli, že zodpovědnější přístup by neuškodil, ale ve výsledku
+jsme sami se sebou a naším výtvorem byli spokojeni, i přes určité drobné neshody během vývoje, ale tomu
+se nevyhne žádný tým, který chce něčeho dosáhnout a není mu takzvaně "všechno jedno".
